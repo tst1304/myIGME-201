@@ -6,8 +6,19 @@ using System.Threading.Tasks;
 
 namespace Townley_HelloWorld
 {
+    /*
+     * Class: Program
+     * Author: Tyler
+     * Purpose: To print out variables to the console. 
+     * Restrictions: Can only add ad subtract variables.
+    */
     class Program
     {
+        /*
+         * Method: Main
+         * Purpose: To declare variables and add and subtract those varables.
+         * Restrictions: Can only add ad subtract variables.
+        */
         static void Main(string[] args)
         {
             int num1 = 5;
